@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá mundo! 👋
 
-<!--
-**deilsondev/deilsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim 
+Eu sou um desenvolvedor web, com aprendizado na Rocketseat.
 
-Here are some ideas to get you started:
+## Minhas Linguagens 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐛 Lingua principal: JavaScript  
+- 📄  FrontEnd: 'ReactJS', 'HTML5', 'CSS3', 'JAVASCRIPT'  
+- 🎨 Layout Design: Figma 
+- 🧑‍💻 Controle de Código: GIT e GITHUB 
+
+## Contato
+
+- 🗃️ E-mail: deilson.dev@gmail.com
+- 👔 Linkedin: https://www.linkedin.com/in/deilsonferreira/
+
